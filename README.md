@@ -8,7 +8,6 @@
 [![Gmail](https://img.shields.io/badge/-João_Pedro-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaopedro.ufma@gmail.com)
 
 <br/>
-<br/>
 
 <p>
 Sou desenvolvedor Front-end 🚀 de São Lúis do Maranhão. Além disso, estudante de Engenharia da Computação da UFMA.
