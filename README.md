@@ -18,7 +18,7 @@
 <p>
 Sou desenvolvedor Front-end 🚀 de São Lúis do Maranhão. Além disso, estudante de Engenharia da Computação da UFMA.
 <br/>
-Estou trilhando o caminho da engenharia e contribuindo com a comunidade de desenvolvedores compartilhando Open Sources Coders 🤖❤️.
+Estou trilhando o caminho da engenharia e contribuindo com a comunidade de desenvolvedores compartilhando meus códigos 🤖❤️.
 </p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
