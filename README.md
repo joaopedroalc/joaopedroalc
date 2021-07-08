@@ -44,7 +44,7 @@ Estou trilhando o caminho da engenharia e contribuindo com a comunidade de desen
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![Python](https://images.app.goo.gl/syEYvBTu6NZYgX8g6)
+<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 
 
 ⭐️ From [aman-atg](https://github.com/joaopedroalc)
