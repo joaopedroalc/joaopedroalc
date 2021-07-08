@@ -1,4 +1,5 @@
 ### OI, Bem-vindo(a)👋, Eu sou [João Pedro](https://github.com/joaopedroalc) 👨‍💻
+<img align="right" alt="img João Pedro" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg"  min-width="400px" max-width="400px" width="400px" />
 
 <br/>
 
@@ -15,8 +16,6 @@ Sou desenvolvedor Front-end 🚀 de São Lúis do Maranhão. Além disso, estuda
 <br/>
 Estou trilhando o caminho da engenharia e contribuindo com a comunidade de desenvolvedores compartilhando meus códigos 🤖❤️.
 </p>
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="40%" height="auto" />
   
 ### ✨ Status
 
