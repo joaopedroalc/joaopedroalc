@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/-João-Pedro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-alc%C3%A2ntara-lima-a608231b4/)
+[![Linkedin](https://img.shields.io/badge/-João-Pedro-Alcântara-Lima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/joaopedroalcn/)
 [![Instagram](https://img.shields.io/badge/-joaopedroalcn-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedroalcn)
 [![Gmail](https://img.shields.io/badge/-João_Pedro-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaopedro.ufma@gmail.com)
 
