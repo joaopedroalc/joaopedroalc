@@ -2,13 +2,14 @@
 <img align="right" alt="img João Pedro" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg"  min-width="400px" max-width="400px" width="400px" />
 
 <br/>
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/-JoãoPedro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroalcn)
 [![Instagram](https://img.shields.io/badge/-joaopedroalcn-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedroalcn)
 [![Gmail](https://img.shields.io/badge/-João_Pedro-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaopedro.ufma@gmail.com)
 
 
-<br />
+<br/>
 <br/>
 
 <p>
