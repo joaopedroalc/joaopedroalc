@@ -1,5 +1,5 @@
 ### OI, Bem-vindo(a), Eu sou [João Pedro](https://github.com/joaopedroalc) 👨‍💻
-<img align="right" alt="img João Pedro" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg"  min-width="400px" max-width="400px" width="400px" margin-bottom="20px"/>
+<img align="right" alt="img João Pedro" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg"  min-width="350px" max-width="350px" width="350px" />
 
 <br/>
 
