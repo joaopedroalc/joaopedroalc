@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroalcn)
 [![Instagram](https://img.shields.io/badge/-joaopedroalcn-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedroalcn)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaopedro.ufma@gmail.com)
+[![Gmail](https://img.shields.io/badge/-João_Pedro-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaopedro.ufma@gmail.com)
 
 
 <br />
