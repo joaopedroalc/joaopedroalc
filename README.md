@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [João Pedro](https://github.com/joaopedroalc) 👨‍💻
+### OI, Bem-vindo(a)👋, I'm [João Pedro](https://github.com/joaopedroalc) 👨‍💻
 
 <br/>
 
