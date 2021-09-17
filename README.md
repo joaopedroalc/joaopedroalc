@@ -24,6 +24,9 @@ Estou trilhando o caminho da engenharia e contribuindo com a comunidade de desen
 - 🎿 Hobbies: namorar, ouvir um bom deep house e comer bastante 😂🤙 ...
 - 📫 Como entrar em contato comigo: joaopedro.ufma@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroalc & show_icons=true & count_private=true & theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
+
+
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
  <!-- icons -->
